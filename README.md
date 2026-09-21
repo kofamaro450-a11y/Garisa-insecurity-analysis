@@ -1,6 +1,6 @@
 # Garissa Insecurity: Research + Computational Extension
 
-*One research project from my portfolio, presented in two layers.*
+*One research project presented in two layers.*
 Ziebi Kofa Maro · BA Political Science, The Catholic University of Eastern Africa
 
 ## Start here
